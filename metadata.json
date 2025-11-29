@@ -1,0 +1,5 @@
+{
+  "name": "OpsAgent Command Center",
+  "description": "A Universal DevOps Agent interface orchestrating Azure CLI, Browser Automation, and Email tools with Human-in-the-Loop validation.",
+  "requestFramePermissions": []
+}
